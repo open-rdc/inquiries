@@ -1,6 +1,6 @@
 ## このリポジトリについて
 
-open-rdcに関する議論を管理する。
+[open-rdc](https://github.com/open-rdc)に関する議論を管理する。
 
 このOrganizationへの意見・質問等がありましたらどうぞ
 
